@@ -1,4 +1,7 @@
-# 🎵 Spotify Clone
+<img src="https://github.com/user-attachments/assets/72a9a618-5bab-4d4d-af92-f5688fdc5c90" width="400"/>
+
+
+# Spotify Clone
 
 This project is a **Spotify Clone** application developed using React and Tailwind CSS. Users can view albums and songs, listen to music, and navigate through different pages via the navigation bar.
 
@@ -14,7 +17,13 @@ This project is a **Spotify Clone** application developed using React and Tailwi
 - 🎛️ User-friendly music player controls
 
 ## 📸 Screenshots
-If you have any screenshots, you can add them here.
+Here are some screenshots of the project:
+
+<img src="https://github.com/user-attachments/assets/68b4f398-0250-46e1-bb94-2aeb8c8cd67d" width="800" />
+
+<img src="https://github.com/user-attachments/assets/3a75e682-1f16-45ed-bc80-e9f6c6e81311" width="800" />
+
+<img src="https://github.com/user-attachments/assets/83f05aeb-a933-41ff-b6cf-33e231df54b9" width="800" />
 
 ## 🛠 Technologies Used
 - **React.js** - For building the user interface
@@ -75,7 +84,7 @@ Follow the steps below to run this project:
    ```bash
    npm run dev
    ```
-   Open `http://localhost:5173` in your browser to view the app.
+   Open localhost in your browser to view the app.
 
 ## 🤝 Contributing
 To contribute, follow these steps:
